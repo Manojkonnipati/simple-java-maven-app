@@ -1,9 +1,10 @@
 package com.mycompany.app;
 
 /**
- * Hello world!
- This is modified by Manoj
-This is modified by Manoj by Second time on git client
+ * Namste 
+ Welcome
+ AAdab
+ Hi
  */
 public class App
 {
